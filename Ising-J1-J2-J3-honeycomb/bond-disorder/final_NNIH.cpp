@@ -708,7 +708,7 @@ struct alignas(64) System {
             }
         }
     }
-}
+};
 struct Measurements {
     int mcs, pt_mcs, burnin, lag, length, Nthreads;
     int n_rep;               // temperatures on [Ti, Tf], both ends included: the same for every L
