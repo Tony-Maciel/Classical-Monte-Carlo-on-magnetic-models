@@ -19,7 +19,7 @@
  * lattice ("implexus") and which later break the remaining Z2 spin symmetry. So the Ising symmetry is broken but the lattice symmetry 
  * remains unbroken at low temperatures.
  *
- * The transition temperature for the clean model is around (k_B T_c / J_1) = 8.5 
+ * The transition temperature for the clean model is around (k_B T_c / J_1) = 8.5 (for J_1 = 1, J_2 = J_3 = -2 and J_p = 1)
  *
  * A cold start (random_start = 0 in the input file) prepares a perfect zig-zag ground state. The hot start is randomly oriented spins.
  *
